@@ -1,0 +1,11 @@
+
+/target/
+
+/data/
+
+*.bin
+
+.vscode/
+
+.DS_Store
+Thumbs.db
